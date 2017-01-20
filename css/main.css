@@ -20,3 +20,9 @@ html {
 body {
   margin: 0;
 }
+
+.img-flex,
+.header-img {
+  display: block;
+  width: 100%;
+}
